@@ -1,0 +1,16 @@
+body {background: rgb(158, 157, 157);}
+
+h3 {color:green}
+
+.foto{width: 150px;}
+
+#nome {color: yellow;}  
+
+p {color:bisque;    }
+
+.foto {border: 2px solid #ffffff; /* shorthand */
+    width: 200px;
+    border-radius: 65%;
+    margin: 30px ;
+    padding: 10px;
+    }
